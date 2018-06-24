@@ -1,3 +1,4 @@
+![Accessibility Days logo](https://accessibleweb.info/wp-content/uploads/2018/05/Acessibility-logo-2018-768x501.jpg)
 ## Welcome to the Accessibility Days WordPress Theme
 
 You can use the [editor on GitHub](https://github.com/rafael-minuesa/Accessibility-Days/edit/master/README.md) to maintain and preview the content for the website in Markdown files.
